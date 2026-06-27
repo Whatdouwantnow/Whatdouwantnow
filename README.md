@@ -23,7 +23,7 @@
 | **Programming** | Python, R, SQL, SAS, C++, Rust, Go |
 | **Software Engineering** | OOP, Data Structures & Algorithms, Multithreading, System Design, Git/GitHub, Linux |
 | **Data & ML** | Machine Learning, Statistical Modeling & Inference, Data Visualization (Plotly, Streamlit) |
-| **Languages** | English (IELTS: 7.5 / GRE: 322), Chinese (Native), French (Entry level) |
+| **Languages** | English (IELTS: 7.5 / GRE: 322), Chinese (Native), French (Basic Conversations), Spanish (Entry Level) |
 
 ---
 
