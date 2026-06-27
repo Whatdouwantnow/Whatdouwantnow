@@ -50,23 +50,47 @@
 
 ---
 
-## 📁 Key Projects
-
-### 🦀 Rust Embedded Code Generator
-* **Tech Stack:** Rust, Serde, YAML, C
-* Built a Rust-based code generation framework converting YAML specifications into embedded C data structures, reducing manual coding effort through automated validation pipelines.
-
-### 💻 Workplace Interactive Analytics Explorer
-* **Tech Stack:** Python, Streamlit, Plotly
-* Developed a full-stack interactive dashboard for exploratory analysis and predictive modeling on workplace mental health survey data.
+## 📁 Key Projects & Research Experience
 
 ### ⚡ High-Frequency Trading Backtesting Framework
-* **Tech Stack:** C++, Multithreading, Memory Management
-* Architected a multi-threaded backtesting engine in C++ for millisecond-level market data, optimizing simulation runtime via parallel processing.
+* **Tech Stack:** C++, Multithreading, System Design, Memory Management
+* Architected a multi-threaded backtesting engine in C++ for evaluating trading strategies on millisecond-level market data.
+* Implemented concurrent execution pipelines and thread-safe data structures to improve throughput and scalability.
+* Designed modular components for strategy execution, event processing, and performance reporting.
+* Reduced simulation runtime through parallel processing and optimized memory management techniques.
 
-### 🧪 Physical Simulation & Health Projects
-* **PINN-Diffuse Model:** Physics-informed diffusion model for PDE simulation and iterative error correction.
-* **ICU Extubation Failure Prediction (MIMIC-IV):** Constructed a clinically aligned ICU cohort using SQL & R to predict 48-hour reintubation risk.
+### 🏥 ICU Extubation Failure Prediction (MIMIC-IV)
+* **Tech Stack:** SQL, R, Health Data Science
+* Constructed a clinically aligned ICU cohort from large-scale EHR data to support development of predictive decision-support workflows.
+* Engineered temporal patient-status features and standardized preprocessing pipelines using SQL and R for reproducible downstream analysis.
+* Evaluated predictive models for 48-hour reintubation risk using ROC/AUC metrics, translating analytical outputs into clinically interpretable insights.
+* Documented data assumptions, workflow logic, and validation procedures to support collaboration across technical and non-technical stakeholders.
+
+### 👶 Childhood Leukemia & Paternal Radiation Exposure Study
+* **Tech Stack:** R, Logistic Regression, Biostatistics
+* Analyzed multi-site clinical datasets to investigate associations between environmental exposure and disease risk.
+* Applied logistic regression and ROC/AUC evaluation to assess predictive performance and communicate key risk patterns.
+* Synthesized statistical findings into structured reports highlighting study limitations, exposure uncertainty, and practical interpretation considerations.
+
+### 🧠 PINN-Diffuse Model for Physical Simulation
+* **Tech Stack:** Deep Learning, Python
+* Developed a physics-informed diffusion model for PDE simulation and iterative error correction.
+* Performed model validation and checkpoint analysis to improve reliability and reproducibility across experiments.
+* Documented modeling assumptions and error-analysis workflows for technical collaboration.
+
+### 💻 Workplace Interactive Analytics Explorer
+* **Tech Stack:** Python, Streamlit, Plotly, Full-Stack Data Application
+* Developed an interactive Streamlit application for exploratory analysis and predictive modeling on workplace mental health survey data.
+* Designed backend data-processing pipelines in Python for cleaning, feature engineering, and model inference.
+* Built interactive dashboards using Plotly to support real-time filtering, visualization, and prediction workflows.
+* Structured application components for maintainability and extensibility across multiple analytical modules.
+
+### 🦀 Rust Embedded Code Generator
+* **Tech Stack:** Rust, Serde, YAML, CLI Tooling, C
+* Built a Rust-based code generation framework that converts YAML interface specifications into embedded C data structures.
+* Implemented parsing, validation, and automated code emission pipelines using Rust, Serde, and CLI tooling.
+* Developed schema validation logic to improve configuration reliability and reduce manual coding effort.
+* Generated maintainable embedded-system interfaces and metadata definitions for simulated automotive control modules.
 
 ---
 
