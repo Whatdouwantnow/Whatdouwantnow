@@ -38,11 +38,15 @@
 
 ### 📊 Wenzhou Oujiangkou Big Data Co., Ltd
 **Data Operations Manager Intern** | *Wenzhou* | *05/2024 - 08/2024*
-* Cleaned and validated multi-source operational datasets and synthesized qualitative user-behavior findings into structured operational reports.
+* Cleaned and validated multi-source operational datasets to support business analytics initiatives.
+* Conducted qualitative user-behavior analysis and synthesized findings into structured operational reports.
+* Collaborated with cross-functional teams to improve reporting consistency and insight communication for internal stakeholders.
 
-### 📡 ZTE Corporation
+### 📡 Zhongxing Telecom Equipment (ZTE) Corporation
 **Technology Strategy Intern** | *Shenzhen* | *06/2023 - 08/2023*
 * Conducted market and competitive analysis on telecom technology solutions to support pre-bid strategy development.
+* Synthesized technical and business findings into presentations for internal stakeholders and external partners.
+* Assisted with communication of product capabilities and customer-oriented solution positioning during branding events.
 
 ---
 
