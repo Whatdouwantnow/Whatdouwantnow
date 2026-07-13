@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🚀 Ludi Zhou | 周芦荻
+# 🚀 Ludi Zhou
 
 <p align="left">
   <a href="mailto:ludizhou@g.ucla.edu"><img src="https://img.shields.io/badge/Email-ludizhou%40g.ucla.edu-blue?style=flat-square&logo=gmail" alt="Email"></a>
