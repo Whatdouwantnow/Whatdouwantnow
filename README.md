@@ -31,10 +31,11 @@
 
 ### 🤖 UCLA Technology Development Group
 **AI Agent Platform Intern** | *Los Angeles* | *06/2026 - Present*
-* Diagnosed and resolved a critical reliability gap in a production HTTP message bus (**Go**) serving 40+ autonomous agents, preventing silent auth failures post-deployment.
-* Designed Docker Compose templates enforcing environment variable validation (`$(VAR:?error)`) to ensure secrets never enter version control.
-* Conducted production topology audits via read-only SSH access to eliminate misconfiguration risks.
-* Authored a peer-reviewed PR documenting a zero-downtime cutover and rollback runbook for service isolation.
+* **Designed and implemented** a namespace-scoped access control layer for a production **Go** message bus serving **40+ autonomous AI agents**, enforcing per-identity pub/sub restrictions across isolated `personal`, `ucla`, and `shared` scopes with denial logging.
+* **Built** a bearer-token identity registry equipped with comprehensive audit logging, tracking every cross-scope access attempt and credential lifecycle event.
+* **Hardened** the **Go** client SDK with environment-based endpoint resolution, exponential backoff with jitter, and idempotency guarantees to ensure **zero message loss** during bus restarts.
+* **Implemented** continuous SQLite replication via **Litestream** to object storage, authoring and executing a full destroy-and-restore drill that proved **sub-minute recovery** from total host failure.
+* **Authored** a structural extraction proof demonstrating that the UCLA agent scope could be migrated to an independent bus instance with **zero client code changes** — requiring only an endpoint URL swap.
 
 ### 📊 Wenzhou Oujiangkou Big Data Co., Ltd
 **Data Operations Manager Intern** | *Wenzhou* | *05/2024 - 08/2024*
