@@ -106,9 +106,10 @@
 
 ### 🏥 Ronald Reagan UCLA Medical Center
 **Patient Operations Assistant (Part-time)** | *Los Angeles* | *02/2026 - Present*
-* Supported patient-facing operational workflows within a high-volume academic medical center environment.
-* Coordinated directly with patients, visitors, and clinical staff in time-sensitive situations requiring clear communication and rapid prioritization.
-* Developed a practical understanding of healthcare access, patient experience, and operational bottlenecks within clinical systems.
+* Managed high-throughput front-line operations, directly validating and facilitating workflows for **~200 patients daily** within a fast-paced, high-volume academic medical center.
+* Coordinated cross-functional communication between patients, visitors, and multidisciplinary clinical teams in time-sensitive, critical situations requiring rapid triaging and crisis prioritization.
+* Optimized patient intake and navigation pathways, proactively identifying and mitigating operational bottlenecks to elevate patient experience and compliance.
+* Developed deep contextual insight into healthcare access frameworks, clinical workflow optimization, and patient-centric system design.
 
 ### 🏳️‍🌈 OUT@Fielding (UCLA)
 **Vice President of Finance** | *Los Angeles* | *11/2025 - Present*
