@@ -29,6 +29,14 @@
 
 ## 💼 Internship Experience
 
+### 🚀 Daily Interactive Holdings Co., Ltd. · Alpha Laboratory
+**AI Agent Intern** | *Hangzhou, China* | *08/2026*
+* Leveraged the company’s proprietary **Tongren Coding Agent** to drive end-to-end development of a community property management platform, spanning requirements decomposition, agent-assisted code generation, debugging, testing, and iterative refinement.
+* Translated a comprehensive software requirements specification into structured development tasks and guided the Coding Agent to implement a **WeChat Mini Program and PC management platform**, covering user authentication, community tasks, repair orders, points, volunteer activities, and offline product redemption.
+* Iteratively validated and refined **Agent-generated code** through prompt-driven development, code review, runtime testing, and error feedback, identifying and correcting issues across business logic, API interactions, and feature implementation.
+* Designed and executed test cases for complex business constraints, including recurring task limits, skill-based access control, repair-order state transitions, points transactions, and offline redemption, evaluating Agent reliability across multi-rule workflows.
+* Contributed to an **AI Agent software development workflow** by refining requirements decomposition, Agent interaction, code validation, and error-resolution practices to improve the controllability and reliability of Agent-generated software.
+
 ### 🤖 UCLA Technology Development Group
 **AI Agent Platform Intern** | *Los Angeles* | *06/2026 - Present*
 * Designed and implemented a namespace-scoped access control layer for a production **Go** message bus serving **40+ autonomous AI agents**, enforcing per-identity pub/sub restrictions across isolated `personal`, `ucla`, and `shared` scopes with denial logging.
@@ -124,4 +132,4 @@
 
 ---
 
-<p align="center"><i>Last Updated: July 2026</i></p>
+<p align="center"><i>Last Updated: August 2026</i></p>
