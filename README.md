@@ -29,8 +29,8 @@
 
 ## 💼 Internship Experience
 
-### 🚀 Daily Interactive Holdings Co., Ltd. · Alpha Laboratory
-**AI Agent Intern** | *Hangzhou, China* | *08/2026*
+### 🚀 Merit Interactive Co., Ltd. · Alpha Laboratory
+**AI Agent Development Intern** | *Hangzhou, China* | *08/2026*
 * Leveraged the company’s proprietary **Tongren Coding Agent** to drive end-to-end development of a community property management platform, spanning requirements decomposition, agent-assisted code generation, debugging, testing, and iterative refinement.
 * Translated a comprehensive software requirements specification into structured development tasks and guided the Coding Agent to implement a **WeChat Mini Program and PC management platform**, covering user authentication, community tasks, repair orders, points, volunteer activities, and offline product redemption.
 * Iteratively validated and refined **Agent-generated code** through prompt-driven development, code review, runtime testing, and error feedback, identifying and correcting issues across business logic, API interactions, and feature implementation.
