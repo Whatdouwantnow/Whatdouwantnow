@@ -29,13 +29,14 @@
 
 ## 💼 Internship Experience
 
-### 🚀 Merit Interactive Co., Ltd. · Alpha Laboratory
-**AI Agent Development Intern** | *Hangzhou, China* | *08/2026*
-* Leveraged the company’s proprietary **Tongren Coding Agent** to drive end-to-end development of a community property management platform, spanning requirements decomposition, agent-assisted code generation, debugging, testing, and iterative refinement.
-* Translated a comprehensive software requirements specification into structured development tasks and guided the Coding Agent to implement a **WeChat Mini Program and PC management platform**, covering user authentication, community tasks, repair orders, points, volunteer activities, and offline product redemption.
-* Iteratively validated and refined **Agent-generated code** through prompt-driven development, code review, runtime testing, and error feedback, identifying and correcting issues across business logic, API interactions, and feature implementation.
-* Designed and executed test cases for complex business constraints, including recurring task limits, skill-based access control, repair-order state transitions, points transactions, and offline redemption, evaluating Agent reliability across multi-rule workflows.
-* Contributed to an **AI Agent software development workflow** by refining requirements decomposition, Agent interaction, code validation, and error-resolution practices to improve the controllability and reliability of Agent-generated software.
+### 🚀 Merit Interactive Co., Ltd. · Alpha Laboratory  
+**AI Agent Development Intern** | *Hangzhou, China* | *08/2026 - 09/2026*
+
+* Leveraged the company’s proprietary **Tongren Coding Agent** to drive end-to-end development of a community services platform, spanning **requirements decomposition, architecture design, agent-assisted implementation, automated testing, UI validation, debugging, and performance optimization**.
+* Translated a comprehensive software requirements specification into structured development tasks and guided the Coding Agent to implement a **WeChat Mini Program, PC management console, and backend services**, covering identity and community verification, skill certification, task workflows, repair-order matching and claiming, points, volunteer activities, QR-based redemption, settlement, and **RBAC**.
+* Established an iterative **Agent generation → automated testing → manual UI smoke testing → defect diagnosis → prompt-driven repair** workflow, identifying and resolving issues involving concurrent order claiming, cross-period task accounting, cross-community authorization, phone-number exposure, transactional settlement, duplicate point rewards, and test-data contamination; expanded the regression suite to **64 passing automated tests** plus browser-level UI flows.
+* Improved the reliability of Agent-generated code by driving the implementation of **transactional idempotency, access-control boundaries, sensitive-data encryption/masking, audit logging, atomic points-and-inventory redemption, and repair settlement ledgers**, while optimizing **indexes, lazy loading, parallel requests, pagination, and N+1 queries** to reduce major API latency to **~14–43 ms** and login latency from **~1–1.5 s to ~270 ms**.
+* Separated production WeChat dependencies from the development environment by introducing **Mock/Real WeChat authentication providers, token restoration, and environment-based configuration**, enabling full end-to-end demonstrations without production AppID/AppSecret credentials while preserving a clean path for future real WeChat integration.
 
 ### 🤖 UCLA Technology Development Group
 **AI Agent Platform Intern** | *Los Angeles* | *06/2026 - Present*
@@ -59,49 +60,6 @@
 
 ---
 
-## 📁 Key Projects & Research Experience
-
-### ⚡ High-Frequency Trading Backtesting Framework
-* **Tech Stack:** C++, Multithreading, System Design, Memory Management
-* Architected a multi-threaded backtesting engine in C++ for evaluating trading strategies on millisecond-level market data.
-* Implemented concurrent execution pipelines and thread-safe data structures to improve throughput and scalability.
-* Designed modular components for strategy execution, event processing, and performance reporting.
-* Reduced simulation runtime through parallel processing and optimized memory management techniques.
-
-### 🏥 ICU Extubation Failure Prediction (MIMIC-IV)
-* **Tech Stack:** SQL, R, Health Data Science
-* Constructed a clinically aligned ICU cohort from large-scale EHR data to support development of predictive decision-support workflows.
-* Engineered temporal patient-status features and standardized preprocessing pipelines using SQL and R for reproducible downstream analysis.
-* Evaluated predictive models for 48-hour reintubation risk using ROC/AUC metrics, translating analytical outputs into clinically interpretable insights.
-* Documented data assumptions, workflow logic, and validation procedures to support collaboration across technical and non-technical stakeholders.
-
-### 👶 Childhood Leukemia & Paternal Radiation Exposure Study
-* **Tech Stack:** R, Logistic Regression, Biostatistics
-* Analyzed multi-site clinical datasets to investigate associations between environmental exposure and disease risk.
-* Applied logistic regression and ROC/AUC evaluation to assess predictive performance and communicate key risk patterns.
-* Synthesized statistical findings into structured reports highlighting study limitations, exposure uncertainty, and practical interpretation considerations.
-
-### 🧠 PINN-Diffuse Model for Physical Simulation
-* **Tech Stack:** Deep Learning, Python
-* Developed a physics-informed diffusion model for PDE simulation and iterative error correction.
-* Performed model validation and checkpoint analysis to improve reliability and reproducibility across experiments.
-* Documented modeling assumptions and error-analysis workflows for technical collaboration.
-
-### 💻 Workplace Interactive Analytics Explorer
-* **Tech Stack:** Python, Streamlit, Plotly, Full-Stack Data Application
-* Developed an interactive Streamlit application for exploratory analysis and predictive modeling on workplace mental health survey data.
-* Designed backend data-processing pipelines in Python for cleaning, feature engineering, and model inference.
-* Built interactive dashboards using Plotly to support real-time filtering, visualization, and prediction workflows.
-* Structured application components for maintainability and extensibility across multiple analytical modules.
-
-### 🦀 Rust Embedded Code Generator
-* **Tech Stack:** Rust, Serde, YAML, CLI Tooling, C
-* Built a Rust-based code generation framework that converts YAML interface specifications into embedded C data structures.
-* Implemented parsing, validation, and automated code emission pipelines using Rust, Serde, and CLI tooling.
-* Developed schema validation logic to improve configuration reliability and reduce manual coding effort.
-* Generated maintainable embedded-system interfaces and metadata definitions for simulated automotive control modules.
-
----
 
 ## 🎓 Education
 
@@ -110,26 +68,4 @@
 
 ---
 
-## 👥 Leadership & Engagement & Healthcare Experience
-
-### 🏥 Ronald Reagan UCLA Medical Center
-**Patient Operations Assistant (Part-time)** | *Los Angeles* | *02/2026 - Present*
-* Managed high-throughput front-line operations, directly validating and facilitating workflows for **~200 patients daily** within a fast-paced, high-volume academic medical center.
-* Coordinated cross-functional communication between patients, visitors, and multidisciplinary clinical teams in time-sensitive, critical situations requiring rapid triaging and crisis prioritization.
-* Optimized patient intake and navigation pathways, proactively identifying and mitigating operational bottlenecks to elevate patient experience and compliance.
-* Developed deep contextual insight into healthcare access frameworks, clinical workflow optimization, and patient-centric system design.
-
-### 🏳️‍🌈 OUT@Fielding (UCLA)
-**Vice President of Finance** | *Los Angeles* | *11/2025 - Present*
-* Built standardized financial tracking and reporting workflows to improve organizational transparency and decision-making.
-* Coordinated budgeting and operational planning across leadership members for community initiatives and events.
-* Established financial onboarding procedures and managed setup of organizational banking operations.
-
-### 🎭 SOMIC Stand-Up Comedy Club (CUHKSZ)
-**Vice President** | *Shenzhen* | *05/2022 - 05/2023*
-* Managed data-driven membership tracking and event scheduling for 20+ students.
-* Produced structured reports and presented insights to external sponsors, securing ¥2000+ funding.
-
----
-
-<p align="center"><i>Last Updated: August 2026</i></p>
+<p align="center"><i>Last Updated: September 2026</i></p>
