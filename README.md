@@ -21,6 +21,7 @@
 | Category | Skills |
 | :--- | :--- |
 | **Programming** | Python, R, SQL, SAS, C++, Rust, Go |
+| **AI Agent Development** | Agentic Workflows, Prompt Engineering, AI-Assisted Software Development, Agent Evaluation, Automated Testing, Multi-Agent Orchestration |
 | **Software Engineering** | OOP, Data Structures & Algorithms, Multithreading, System Design, Git/GitHub, Linux |
 | **Data & ML** | Machine Learning, Statistical Modeling & Inference, Data Visualization (Plotly, Streamlit) |
 | **Languages** | English (IELTS: 7.5 / GRE: 322), Chinese (Native), French (Basic Conversations), Spanish (Entry Level) |
