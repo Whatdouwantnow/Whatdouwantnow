@@ -12,7 +12,7 @@
 
 ## 📌 Summary
 * **UCLA Master of Data Science in Health** student with strong experience building data-driven applications, software systems, and AI-enabled workflows.
-* Skilled in **Python, C++, SQL, Go, and Rust**, with deep interest in developer infrastructure, AI platforms, and software engineering.
+* Skilled in **Python, C++, SQL, Go, and Rust**, with deep interest in developer infrastructure, AI agent, and software engineering.
 
 ---
 
